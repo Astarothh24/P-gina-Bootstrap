@@ -1,0 +1,42 @@
+.Bloque1{
+    margin: 30px;
+    border: 10px;
+}
+h2{
+    margin-bottom: 30px;
+    color: black;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.section-container{
+    display: flex;
+    flex-direction: column;
+}
+.top-section{
+    display: flex;
+}
+section{
+    flex: 1;
+    margin: 50px;
+    text-align: center;
+}
+section h2{
+    color: black;
+}
+img{
+    border-radius: 150px;
+    width: 40%;
+}
+section h3{
+    color: black;
+}
+footer{
+    padding: 0;
+    text-align: center;
+    color: black;
+    background-color: rgb(230, 193, 144);
+}
+
+
